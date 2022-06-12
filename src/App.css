@@ -1,0 +1,28 @@
+.modalDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.modalsubDiv img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+
+.modalsubDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.modalSubDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
